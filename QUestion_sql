@@ -1,0 +1,26 @@
+INSTR,SUBSTR -ENAME(-1,1)
+TCL
+UPDATE  Query
+DIFF IN STORED PROCEDURE AND TRIGGERS 
+INVOKE/RAISE
+DUAL-1row,1column
+composite key - Primary key should be used
+primary key-unique and not null
+by default-concurrent read only
+how many types of resultset  in jdbc 2.0 -3
+foreign key in my table is primary key in another table
+what type of driver is required for centralized database type 4!
+which class/interface will establish connection to database
+which will return multiple rows
+count - employyees id - (1)-53,54
+BAtch processing-(both-Prepapre statement,statement)
+fmDay 
+if one fails other fails-transaction
+Human resources-HR (our schema) (alias can access table coulmns)
+in rdbms what type of relationships are present (one-many,one-one,many-many)
+rdbms does not have which type of relationship (many to one)
+how many triggers (many)
+select * from -employee 
+prepared statement does not give automatic execution
+new features in jdbc 2.0 (resultset,batchupdates,distributedtransactions)
+loops-while
